@@ -78,7 +78,6 @@ Open http://localhost:8501
 ## Project Structure
 
 ```
-├── spec.md                    # Full specification
 ├── requirements.txt
 ├── corrections.db            # SQLite (created at runtime)
 ├── data/
