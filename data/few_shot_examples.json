@@ -1,0 +1,62 @@
+[
+  {
+    "text": "I was charged twice for my subscription this month and I need a refund for the duplicate charge.",
+    "label": "billing"
+  },
+  {
+    "text": "My account is locked and I cannot reset my password because I'm not receiving the verification email.",
+    "label": "account"
+  },
+  {
+    "text": "The application keeps crashing whenever I try to upload a file larger than 10MB.",
+    "label": "technical"
+  },
+  {
+    "text": "My order was supposed to arrive three days ago but the tracking shows it is still in transit.",
+    "label": "shipping"
+  },
+  {
+    "text": "Does this product work with Windows 11 and do you have specifications available?",
+    "label": "product"
+  },
+  {
+    "text": "I want to return the item I purchased last week because it doesn't fit my needs.",
+    "label": "returns"
+  },
+  {
+    "text": "How do I contact your support team and what are your business hours?",
+    "label": "general"
+  },
+  {
+    "text": "I noticed an unexpected charge of $50 on my credit card statement from your company.",
+    "label": "billing"
+  },
+  {
+    "text": "The login page gives me a 403 error when I try to sign in with my Google account.",
+    "label": "technical"
+  },
+  {
+    "text": "Can you help me update my shipping address for an order that hasn't shipped yet?",
+    "label": "shipping"
+  },
+  {
+    "text": "I need to change my email address associated with my account for future communications.",
+    "label": "account"
+  },
+  {
+    "text": "What's the warranty period for this product and what does it cover?",
+    "label": "product"
+  },
+  {
+    "text": "I submitted a return request three days ago but haven't received any confirmation email.",
+    "label": "returns"
+  },
+  {
+    "text": "The feature you advertised on your website doesn't seem to be available in my account.",
+    "label": "technical"
+  },
+  {
+    "text": "Do you offer any discounts for annual subscription plans compared to monthly billing?",
+    "label": "billing"
+  }
+]
